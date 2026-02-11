@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**bernaimerii/bernaimerii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student based in Switzerland, specializing in Artificial Intelligence and Visual Computing.
 
-Here are some ideas to get you started:
+Alongside my studies, I work professionally as a SAP ABAP Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While my professional background is rooted in SAP development, my long-term objective is to expand into broader technology stacks.
+
+While my professional background is rooted in SAP development, my long-term objective is to broaden my expertise across additional technology stacks.
+On this GitHub, I document my learning projects and technical explorations across different technologies.
+
+I strongly believe that a good engineer should not only understand code — but also understand systems, processes, and real-world constraints.
+
+#Goals:
+
+- Build strong foundations in AI engineering
+- Become stack-independent as a developer
+- Apply machine learning to real operational problems
+
+#Fun Facts:
+
+- I play the violin
+- I don't drink coffee
