@@ -11,13 +11,13 @@ On this GitHub, I document my learning projects and technical explorations acros
 
 I strongly believe that a good engineer should not only understand code — but also understand systems, processes, and real-world constraints.
 
-#Goals:
+**Goals**:
 
 - Build strong foundations in AI engineering
 - Become stack-independent as a developer
 - Apply machine learning to real operational problems
 
-#Fun Facts:
+**Fun Facts**:
 
 - I play the violin
 - I don't drink coffee
