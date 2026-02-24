@@ -8,7 +8,7 @@ Alongside my studies, I work professionally as a SAP ABAP Developer.
 While my professional background is rooted in SAP development, my long-term objective is to broaden my expertise across additional technology stacks.
 On this GitHub, I document my learning projects and technical explorations across different technologies.
 
-I strongly believe that a good engineer should not only understand code — but also understand systems, processes, and real-world constraints.
+I strongly believe that a good engineer should not only understand code, but also understand systems, processes, and real-world constraints.
 
 **Goals**:
 
